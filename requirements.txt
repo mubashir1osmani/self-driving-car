@@ -2,3 +2,4 @@ numpy
 matplotlib
 carla
 jupyter
+ipykernel
